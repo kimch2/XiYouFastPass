@@ -1,0 +1,22 @@
+﻿<UserControl
+    x:Class="SocketClientDemo.UserControls.DiskPPTItem"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SocketClientDemo.UserControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <Grid >
+        <RelativePanel Height="70" Background="White"  >
+            <Image x:ConnectionId='1' x:Name="image" Width="70" Source="{Binding Img}" ></Image>
+            <TextBlock x:ConnectionId='2' x:Name="text" Text="{Binding Name}" FontSize="30" Foreground="#252525"  Margin="8 10 0 0" RelativePanel.RightOf="image" RelativePanel.AlignRightWithPanel="True" ></TextBlock>
+         
+            <Rectangle Fill="#F4F4F4" RelativePanel.AlignRightWithPanel="True" RelativePanel.Below="image" RelativePanel.AlignLeftWithPanel="True" Height="2"></Rectangle>
+
+        </RelativePanel>
+    </Grid>
+</UserControl>
+

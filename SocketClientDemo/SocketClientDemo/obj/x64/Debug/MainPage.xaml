@@ -1,0 +1,195 @@
+﻿<Page
+    x:Class="SocketClientDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SocketClientDemo.UserControls"
+    xmlns:localview="using:SocketClientDemo.ViewPage"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#6A80D3">
+        <Grid.Resources>
+            <Storyboard x:ConnectionId='1' x:Name="loadanimation">
+                <ObjectAnimationUsingKeyFrames RepeatBehavior="Forever" Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="image1">
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0" Value="Collapsed"></DiscreteObjectKeyFrame>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.3" Value="Collapsed"></DiscreteObjectKeyFrame>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.6" Value="Visible"></DiscreteObjectKeyFrame>
+                </ObjectAnimationUsingKeyFrames>
+                <ObjectAnimationUsingKeyFrames  RepeatBehavior="Forever" Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="image2">
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0" Value="Collapsed"></DiscreteObjectKeyFrame>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.3" Value="Visible"></DiscreteObjectKeyFrame>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.6" Value="Collapsed"></DiscreteObjectKeyFrame>
+
+                </ObjectAnimationUsingKeyFrames>
+                <ObjectAnimationUsingKeyFrames  RepeatBehavior="Forever" Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="image3">
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0" Value="Visible"></DiscreteObjectKeyFrame>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.3" Value="Collapsed"></DiscreteObjectKeyFrame>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.6" Value="Collapsed"></DiscreteObjectKeyFrame>
+                </ObjectAnimationUsingKeyFrames>
+            </Storyboard>
+        </Grid.Resources>
+        <RelativePanel>
+            <Grid RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignTopWithPanel="True">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <RelativePanel Height="60" Background="#9A7EF8" Grid.Row="0" HorizontalAlignment="Stretch">
+                    <Button x:ConnectionId='33' Style="{StaticResource ButtonStyle}" x:Name="sidebtn" Height="60" Width="60"                      >
+                        <Button.Background>
+                            <ImageBrush ImageSource="ms-appx:///Image/list.png"></ImageBrush>
+                        </Button.Background>
+                    </Button>
+                    <TextBlock x:ConnectionId='34'  x:Name="name" Text="西邮快传" Margin="10 9 0 0" Width="200" TextAlignment="Center"  FontSize="25" Foreground="White" HorizontalAlignment="Center"    RelativePanel.RightOf="sidebtn" ></TextBlock>
+                    <Button x:ConnectionId='35' Style="{StaticResource ButtonStyle}" x:Name="scanbtn" Height="60" Width="60"                       RelativePanel.RightOf="sidebtn" RelativePanel.AlignRightWithPanel="True" HorizontalAlignment="Right" >
+                        <Button.Background>
+                            <ImageBrush ImageSource="ms-appx:///Image/scan.png"></ImageBrush>
+                        </Button.Background>
+                    </Button>
+                </RelativePanel>
+                <RelativePanel Grid.Row="1"  HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <!--<RelativePanel.Background>
+                        <ImageBrush   ImageSource="ms-appx:///Image/logo.png" Opacity="0.3"></ImageBrush>
+                    </RelativePanel.Background>-->
+                    <Image x:ConnectionId='30' x:Name="image1"  Visibility="Collapsed" Source="ms-appx:///Image/loading1.png" Width="120" Height="120"></Image>
+                    <Image x:ConnectionId='31' x:Name="image2"  Visibility="Collapsed" Source="ms-appx:///Image/loading2.png" Width="120" Height="120"></Image>
+                    <Image x:ConnectionId='32' x:Name="image3"  Visibility="Collapsed" Source="ms-appx:///Image/loading3.png" Width="120" Height="120"></Image>
+                </RelativePanel>
+                <ListView x:ConnectionId='2' Grid.Row="1" x:Name="filelistview"   ShowsScrollingPlaceholders="False"  RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True" ItemContainerStyle="{StaticResource ResourceKey=ItemContainerStyle}">
+                    <ItemsControl.Template >
+                        <ControlTemplate>
+                            <ScrollViewer >
+                                <StackPanel  >
+                                    <ItemsPresenter></ItemsPresenter>
+                                </StackPanel>
+                            </ScrollViewer>
+                        </ControlTemplate>
+                    </ItemsControl.Template>
+                    <ListView.ItemTemplate  >
+                        <DataTemplate  >
+                            <local:DownloadFileProgressbar  x:Name="filelistitem" VerticalAlignment="Stretch" Height="100" HorizontalAlignment="Stretch" ></local:DownloadFileProgressbar>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+
+
+                <RelativePanel Grid.Row="2" Height="250">
+                    <RelativePanel.Background>
+                        <ImageBrush ImageSource="ms-appx:///Image/loginback.png">
+
+                        </ImageBrush>
+                    </RelativePanel.Background>
+
+                    <Grid x:ConnectionId='26' x:Name="grid" RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True" Height="100" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <local:LoginButton x:ConnectionId='27' x:Name="mycombtn"                       VerticalAlignment="Bottom"   Grid.Column="0"  HorizontalAlignment="Stretch"    RelativePanel.AlignBottomWithPanel="True">
+                        </local:LoginButton>
+                        <Button x:ConnectionId='28' x:Name="login"                     Grid.Column="1" Margin="0 -100 0 0"  Style="{StaticResource EllipseButtonStyle}" Width="120" Height="120" RelativePanel.Above="grid" >
+                            <Button.Background>
+                                <ImageBrush  ImageSource="ms-appx:///Image/logo.png"></ImageBrush>
+                            </Button.Background>
+                        </Button>
+                        <local:LoginButton x:ConnectionId='29'  x:Name="connectbtn"  VerticalAlignment="Bottom"                              Grid.Column="2" RelativePanel.RightOf="mycom" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignBottomWithPanel="True">
+                           
+                        </local:LoginButton>
+                    </Grid>
+
+
+                </RelativePanel>
+               
+
+                <SplitView x:ConnectionId='3' x:Name="splitview" Visibility="Visible" Grid.Row="1" Grid.RowSpan="2"   DisplayMode="Inline">
+                    <SplitView.Pane>
+                        <ScrollViewer  VerticalScrollBarVisibility="Hidden" Background="#2A2B2F">
+                            <RelativePanel >
+                                <RelativePanel x:ConnectionId='5' x:Name="user">
+                                    <Image x:ConnectionId='23' x:Name="userphoto" Width="100" Height="100" Source="ms-appx:///Image/UserPhoto.png"></Image>
+                                    <TextBlock x:ConnectionId='24' x:Name="usertext" RelativePanel.RightOf="userphoto" Margin="0 30 15 0" FontSize="20" Text="西邮Wifi快传" Foreground="White"></TextBlock>
+                                    <Button x:ConnectionId='25' Content="切换网络"                       Foreground="#969899" RelativePanel.RightOf="usertext" Margin="0 30 0 0" ></Button>
+                                </RelativePanel>
+                                <!--<RelativePanel  x:Name="one" RelativePanel.Below="user" HorizontalAlignment="Stretch" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True">
+                                    <Image x:Name="connect" Source="ms-appx:///Image/connect.png" Width="50" Height="50"></Image>
+                                    <TextBlock x:Name="connecttext"  Text="连接管理" Foreground="#969899" Margin="10 15 0 0" RelativePanel.RightOf="connect"></TextBlock>
+                                    <Image RelativePanel.RightOf="connecttext" Source="ms-appx:///Image/go.png" HorizontalAlignment="Right" RelativePanel.AlignRightWithPanel="True" Width="50" Height="50">
+                                    </Image>
+                                </RelativePanel>-->
+                                <RelativePanel x:ConnectionId='6' Margin="0 0 0 0"                             x:Name="two" RelativePanel.Below="user" HorizontalAlignment="Stretch" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True">
+                                    <Image x:ConnectionId='21' x:Name="upload" Source="ms-appx:///Image/upload.png" Width="50" Height="50"></Image>
+                                    <TextBlock x:ConnectionId='22' x:Name="uploadtext"   Text="上传文件到电脑" Foreground="#969899" Margin="10 15 0 0" RelativePanel.RightOf="upload"></TextBlock>
+                                    <Image RelativePanel.RightOf="uploadtext" Source="ms-appx:///Image/go.png" HorizontalAlignment="Right" RelativePanel.AlignRightWithPanel="True" Width="50" Height="50">
+                                    </Image>
+                                </RelativePanel>
+                                <RelativePanel x:ConnectionId='7' x:Name="three" RelativePanel.Below="two" HorizontalAlignment="Stretch" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True">
+                                    <Image x:ConnectionId='19' x:Name="settings" Source="ms-appx:///Image/settings.png" Width="50" Height="50"></Image>
+                                    <TextBlock x:ConnectionId='20' x:Name="settingstext"  Text="设置" Foreground="#969899" Margin="10 15 0 0" RelativePanel.RightOf="settings"></TextBlock>
+                                    <Image Source="ms-appx:///Image/go.png" RelativePanel.RightOf="settingstext" HorizontalAlignment="Right" RelativePanel.AlignRightWithPanel="True" Width="50" Height="50">
+                                    </Image>
+                                </RelativePanel>
+                                <RelativePanel x:ConnectionId='8'                           x:Name="four" RelativePanel.Below="three" HorizontalAlignment="Stretch" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True">
+                                    <Image x:ConnectionId='17' x:Name="feedback" Source="ms-appx:///Image/feedback.png" Width="50" Height="50"></Image>
+                                    <TextBlock x:ConnectionId='18' x:Name="feedbacktext"  Text="反馈" Foreground="#969899" Margin="10 15 0 0" RelativePanel.RightOf="feedback"></TextBlock>
+                                    <Image Source="ms-appx:///Image/go.png" RelativePanel.RightOf="feedbacktext" HorizontalAlignment="Right" RelativePanel.AlignRightWithPanel="True" Width="50" Height="50">
+                                    </Image>
+                                </RelativePanel>
+                                <RelativePanel x:ConnectionId='9'                       x:Name="five" RelativePanel.Below="four" HorizontalAlignment="Stretch" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True">
+                                    <Image x:ConnectionId='15' x:Name="about" Source="ms-appx:///Image/about.png" Width="50" Height="50"></Image>
+                                    <TextBlock x:ConnectionId='16' x:Name="abouttext"  Text="关于我们" Foreground="#969899" Margin="10 15 0 0" RelativePanel.RightOf="about"></TextBlock>
+                                    <Image Source="ms-appx:///Image/go.png"   RelativePanel.RightOf="abouttext" HorizontalAlignment="Right" RelativePanel.AlignRightWithPanel="True" Width="50" Height="50">
+                                    </Image>
+                                </RelativePanel>
+                                <RelativePanel x:ConnectionId='10'                       x:Name="six" RelativePanel.Below="five" HorizontalAlignment="Stretch" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True">
+                                    <Image x:ConnectionId='13' x:Name="intro" Source="ms-appx:///Image/intro.png" Width="50" Height="50"></Image>
+                                    <TextBlock x:ConnectionId='14' x:Name="introtext"  Text="快传说明" Foreground="#969899" Margin="10 15 0 0" RelativePanel.RightOf="intro"></TextBlock>
+                                    <Image Source="ms-appx:///Image/go.png"  RelativePanel.RightOf="introtext" HorizontalAlignment="Right" RelativePanel.AlignRightWithPanel="True" Width="50" Height="50">
+                                    </Image>
+                                </RelativePanel>
+                                <RelativePanel x:ConnectionId='11' x:Name="logo" RelativePanel.AlignBottomWithPanel="True" RelativePanel.Below="six"   HorizontalAlignment="Center"  RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True">
+                                    <Image x:ConnectionId='12' x:Name="logoico" Margin="0 50 0 0"   Source="ms-appx:///Image/logo.png" Width="80" Height="80"></Image>
+                                    <TextBlock RelativePanel.Below="logoico" FontSize="20" Margin="0 0 0 50"  Text="西邮快传" Foreground="#969899"></TextBlock>
+                                </RelativePanel>
+
+                            </RelativePanel>
+                        </ScrollViewer>
+                    </SplitView.Pane>
+                </SplitView>
+              
+                <Frame x:ConnectionId='4' x:Name="Frame_Login" Grid.Row="1" VerticalAlignment="Bottom" Visibility="Collapsed" >
+              
+                </Frame>
+            </Grid>
+        </RelativePanel>
+
+    </Grid>
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <EntranceNavigationTransitionInfo></EntranceNavigationTransitionInfo>
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+               
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+    <!--<Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" Header="Ip" FontSize="30" x:Name="TB_IPText" Text="1111111" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="1" Header="端口号" FontSize="30" x:Name="TB_CountText" VerticalAlignment="Center"/>
+        <Button Grid.Row="2" Width="100" Height="100" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                Content="连接" FontSize="30" Click="OnConnect" x:Name="btn"/>
+        
+       
+    </Grid>-->
+</Page>
+

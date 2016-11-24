@@ -1,0 +1,503 @@
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ApplicationInsights.config
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\App.xbf
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\MainPage.xbf
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\SocketClientDemo.xr.xml
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\SocketClientDemo.exe
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\SocketClientDemo.pdb
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\resources.pri
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\AppxManifest.xml
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Core\AppxManifest.xml
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Core\SocketClientDemo.exe
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\SocketClientDemo.build.appxrecipe
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.ApplicationInsights.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.CSharp.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Core.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Numerics.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Serialization.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.Web.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Windows.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.Linq.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.Serialization.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.VisualBasic.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.AppContext.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Collections.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Collections.Concurrent.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Collections.Immutable.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Collections.NonGeneric.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Collections.Specialized.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ComponentModel.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ComponentModel.Annotations.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Data.Common.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Diagnostics.Contracts.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Diagnostics.Debug.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Diagnostics.Tools.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Diagnostics.Tracing.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Dynamic.Runtime.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Globalization.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Globalization.Calendars.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Globalization.Extensions.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.Compression.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ClrCompression.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.FileSystem.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.IsolatedStorage.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Linq.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Linq.Expressions.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Linq.Parallel.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Linq.Queryable.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.Http.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.Http.Rtc.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.NetworkInformation.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.Primitives.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.Requests.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.Sockets.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Numerics.Vectors.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ObjectModel.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Private.DataContractSerialization.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Private.Networking.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Private.ServiceModel.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Private.Uri.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Context.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Emit.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Extensions.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Metadata.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Primitives.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Resources.ResourceManager.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Extensions.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Handles.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.InteropServices.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Numerics.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Security.Claims.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Security.Principal.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.Duplex.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.Http.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.Primitives.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.Security.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Text.Encoding.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Text.RegularExpressions.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.Overlapped.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.Tasks.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.Timer.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.ReaderWriter.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.XDocument.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.XmlDocument.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.XmlSerializer.dll
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\SocketClientDemo.csprojResolveAssemblyReference.cache
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\App.g.i.cs
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\App.g.cs
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainPage.g.i.cs
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainPage.g.cs
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\XamlTypeInfo.g.cs
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\App.xaml
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainPage.xaml
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\App.xbf
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainPage.xbf
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\XamlSaveStateFile.xml
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\SocketClientDemo.exe
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\SocketClientDemo.pdb
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ResourceHandlingTask.state
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.AppContext.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Collections.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Linq.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Private.Networking.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Threading.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\priconfig.xml
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\priconfig.xml.intermediate
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\layout.resfiles
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\layout.resfiles.intermediate
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\resources.resfiles
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\resources.resfiles.intermediate
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\pri.resfiles
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\pri.resfiles.intermediate
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\qualifiers.txt
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\qualifiers.txt.intermediate
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ProjectArchitectures.txt
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainViewModel.g.i.cs
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainViewModel.g.cs
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainViewModel.xaml
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainViewModel.xbf
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\MainViewModel.xbf
+E:\Microsoft Visual Studio 14.0\Myproject\windows 10\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Newtonsoft.Json.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\SocketClientDemo.csprojResolveAssemblyReference.cache
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\App.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\App.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainPage.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainPage.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\XamlTypeInfo.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\App.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainPage.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\App.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MainPage.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\XamlSaveStateFile.xml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\SocketClientDemo.exe
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\SocketClientDemo.pdb
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ApplicationInsights.config
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\App.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\MainPage.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\SocketClientDemo.xr.xml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\SocketClientDemo.exe
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\SocketClientDemo.pdb
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\resources.pri
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\AppxManifest.xml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Core\AppxManifest.xml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Core\SocketClientDemo.exe
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\SocketClientDemo.build.appxrecipe
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.ApplicationInsights.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.CSharp.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Core.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Numerics.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Serialization.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.Web.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Windows.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.Linq.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.Serialization.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.VisualBasic.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Newtonsoft.Json.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.AppContext.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Collections.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Collections.Concurrent.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Collections.Immutable.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Collections.NonGeneric.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Collections.Specialized.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ComponentModel.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ComponentModel.Annotations.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Data.Common.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Diagnostics.Contracts.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Diagnostics.Debug.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Diagnostics.Tools.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Diagnostics.Tracing.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Dynamic.Runtime.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Globalization.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Globalization.Calendars.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Globalization.Extensions.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.Compression.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ClrCompression.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.FileSystem.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.IsolatedStorage.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Linq.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Linq.Expressions.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Linq.Parallel.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Linq.Queryable.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.Http.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.Http.Rtc.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.NetworkInformation.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.Primitives.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.Requests.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.Sockets.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Numerics.Vectors.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ObjectModel.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Private.DataContractSerialization.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Private.Networking.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Private.ServiceModel.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Private.Uri.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Context.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Emit.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Extensions.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Metadata.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.Primitives.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Resources.ResourceManager.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Extensions.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Handles.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.InteropServices.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Numerics.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Security.Claims.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Security.Principal.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.Duplex.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.Http.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.Primitives.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.ServiceModel.Security.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Text.Encoding.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Text.RegularExpressions.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.Overlapped.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.Tasks.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Threading.Timer.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.ReaderWriter.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.XDocument.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.XmlDocument.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\System.Xml.XmlSerializer.dll
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ResourceHandlingTask.state
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.AppContext.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Collections.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Linq.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Private.Networking.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Threading.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\priconfig.xml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\priconfig.xml.intermediate
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\layout.resfiles
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\layout.resfiles.intermediate
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\resources.resfiles
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\resources.resfiles.intermediate
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\pri.resfiles
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\pri.resfiles.intermediate
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\qualifiers.txt
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\qualifiers.txt.intermediate
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ProjectArchitectures.txt
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\Style\Resource.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\UserControls\DiskButton.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\UserControls\DiskListitem.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\UserControls\LoginButton.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\ComOperation.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\DiskShow.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\LoginView.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskButton.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskButton.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskListitem.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskListitem.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\LoginButton.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\LoginButton.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ComOperation.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ComOperation.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\DiskShow.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\DiskShow.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\LoginView.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\LoginView.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\Style\Resource.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskButton.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskListitem.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\LoginButton.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ComOperation.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\DiskShow.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\LoginView.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\Style\Resource.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskButton.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskListitem.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\LoginButton.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ComOperation.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\DiskShow.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\LoginView.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\instruction.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\PPTMainView.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\SendMail.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\SignalDemo.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\UserControls\ControlComButton.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\ControlComOperation.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\PPTView.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\ShutdownView.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\VoiceDemo.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\instruction.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\instruction.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\PPTMainView.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\PPTMainView.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\SendMail.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\SendMail.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\SignalDemo.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\SignalDemo.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\ControlComButton.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\ControlComButton.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ControlComOperation.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ControlComOperation.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\PPTView.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\PPTView.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ShutdownView.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ShutdownView.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\VoiceDemo.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\VoiceDemo.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\instruction.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\PPTMainView.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\SendMail.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\SignalDemo.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\ControlComButton.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ControlComOperation.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\PPTView.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ShutdownView.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\VoiceDemo.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\instruction.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\PPTMainView.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\SendMail.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\SignalDemo.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\ControlComButton.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ControlComOperation.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\PPTView.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ShutdownView.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\VoiceDemo.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\ScanScan.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ZXing.winmd
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ScanScan.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ScanScan.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ScanScan.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ScanScan.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\UserControls\DownloadFileProgressbar.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DownloadFileProgressbar.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DownloadFileProgressbar.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DownloadFileProgressbar.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DownloadFileProgressbar.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\ScreenShow.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ScreenShow.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ScreenShow.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ScreenShow.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\ScreenShow.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\UserControls\DiskPPTItem.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\bin\x64\Debug\ViewPage\DiskPPTShow.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskPPTItem.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskPPTItem.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\DiskPPTShow.g.i.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\DiskPPTShow.g.cs
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskPPTItem.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\DiskPPTShow.xaml
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\UserControls\DiskPPTItem.xbf
+E:\XiYouFastPass\SocketClientDemo\SocketClientDemo\obj\x64\Debug\ViewPage\DiskPPTShow.xbf

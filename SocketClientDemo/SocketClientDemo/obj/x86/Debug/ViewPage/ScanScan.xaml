@@ -1,0 +1,71 @@
+﻿<Page
+    x:Class="SocketClientDemo.ViewPage.ScanScan"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SocketClientDemo.ViewPage"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Black">
+        <Grid x:ConnectionId='1' x:Name="root">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"></RowDefinition>
+                <RowDefinition Height="306"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <CaptureElement x:ConnectionId='2' x:Name="captureElement"
+                            VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                            Stretch="Uniform" Grid.Row="0" Grid.RowSpan="3"></CaptureElement>
+            <Grid x:ConnectionId='3' x:Name="clipImage" Grid.Row="1" VerticalAlignment="Center" Width="300" Height="300"
+                  HorizontalAlignment="Center"></Grid>
+            <Grid x:ConnectionId='4' x:Name="clip" Grid.Row="0" Grid.RowSpan="3">
+                <Image x:ConnectionId='11' x:Name="image" Visibility="Visible" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"></Image>
+            </Grid>
+            <Image x:ConnectionId='5' x:Name="i" Grid.Row="0" Height="100" Width="100" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Image>
+            <Grid Grid.Row="0" Background="Gray" Opacity="0.5" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Grid>
+            <Grid Grid.Row="2" Background="Gray"  Opacity="0.5" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <TextBlock x:ConnectionId='10' x:Name="status"  Foreground="White" TextAlignment="Center" Padding="0 60 0 0" FontSize="20" ></TextBlock>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="306"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="306"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Background="Gray" Opacity="0.5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"></Grid>
+                <Grid Grid.Row="0" Grid.Column="0" Grid.RowSpan="3" Background="Gray" Opacity="0.5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"></Grid>
+                <Grid Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Background="Gray" Opacity="0.5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"></Grid>
+                <Grid Grid.Row="0" Grid.Column="2" Grid.RowSpan="3" Background="Gray" Opacity="0.5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"></Grid>
+                <Grid x:ConnectionId='6' x:Name="rootPosition" Grid.Row="1" Grid.Column="1" Width="306"    Height="306" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Grid.Resources>
+                        <Storyboard x:ConnectionId='7' x:Name="tip">
+                            <DoubleAnimationUsingKeyFrames RepeatBehavior="Forever" Storyboard.TargetName="imgScan" Storyboard.TargetProperty="(Canvas.Top)">
+                                <LinearDoubleKeyFrame KeyTime="0:0:0" Value="0"></LinearDoubleKeyFrame>
+                                <LinearDoubleKeyFrame KeyTime="0:0:2.5" Value="300"></LinearDoubleKeyFrame>
+                                <LinearDoubleKeyFrame KeyTime="0:0:5" Value="0"></LinearDoubleKeyFrame>
+                            </DoubleAnimationUsingKeyFrames>
+                        </Storyboard>
+                    </Grid.Resources>
+                    <Canvas x:ConnectionId='8' x:Name="canvas" Grid.Row="1" Canvas.Top="170" Width="300" Height="300">
+                        <Image x:ConnectionId='9' x:Name="imgScan" Source="ms-appx:///Image/light.png" Width="300" Height="11" Stretch="Fill"></Image>
+                    </Canvas>
+                    <Rectangle Height="3" Width="50" Fill="Green" Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Left"></Rectangle>
+                    <Rectangle Height="3" Width="50" Fill="Green" Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Right"></Rectangle>
+                    <Rectangle Height="3" Width="50" Fill="Green" Grid.Row="1" Grid.Column="1" VerticalAlignment="Bottom" HorizontalAlignment="Left"></Rectangle>
+                    <Rectangle Height="3" Width="50" Fill="Green" Grid.Row="1" Grid.Column="1" VerticalAlignment="Bottom" HorizontalAlignment="Right"></Rectangle>
+                    <Rectangle Height="50" Width="3" Fill="Green" Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Left"></Rectangle>
+                    <Rectangle Height="50" Width="3" Fill="Green" Grid.Row="1" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Right"></Rectangle>
+                    <Rectangle Height="50" Width="3" Fill="Green" Grid.Row="1" Grid.Column="1" VerticalAlignment="Bottom" HorizontalAlignment="Left"></Rectangle>
+                    <Rectangle Height="50" Width="3" Fill="Green" Grid.Row="1" Grid.Column="1" VerticalAlignment="Bottom" HorizontalAlignment="Right"></Rectangle>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
+

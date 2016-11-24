@@ -1,0 +1,95 @@
+﻿<Page
+    x:Class="SocketClientDemo.ViewPage.DiskShow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SocketClientDemo.UserControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.Resources>
+            <Storyboard x:Name="loadanimation">
+                <ObjectAnimationUsingKeyFrames Duration="0:0:0.3" Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border">
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0" Value="Collapsed"></DiscreteObjectKeyFrame>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.3" Value="Visible"></DiscreteObjectKeyFrame>
+                </ObjectAnimationUsingKeyFrames>
+            </Storyboard>
+            <Storyboard x:Name="canelanimation">
+                <ObjectAnimationUsingKeyFrames Duration="0:0:0.3" Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border">
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0" Value="Visible"></DiscreteObjectKeyFrame>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.3" Value="Collapsed"></DiscreteObjectKeyFrame>
+                </ObjectAnimationUsingKeyFrames>
+            </Storyboard>
+        </Grid.Resources>
+        <RelativePanel>
+            <Grid RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignBottomWithPanel="True" RelativePanel.AlignTopWithPanel="True" RelativePanel.AlignLeftWithPanel="True">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <RelativePanel Grid.Row="0" HorizontalAlignment="Stretch"  Background="#9271D9" >
+                   
+                    <Button x:Name="btn" Click="btn_Click" Style="{StaticResource ButtonStyle}" Width="60" Height="60">
+                        <Button.Background>
+                            <ImageBrush ImageSource="ms-appx:///Image/back.png"></ImageBrush>
+                        </Button.Background>
+                    </Button>
+                    <TextBlock Text="桌面文件" Foreground="White" Margin="0 12 0 0" FontSize="25" RelativePanel.RightOf="btn"></TextBlock>
+                </RelativePanel>
+                <RelativePanel Grid.Row="1" Height="30" Background="#EAEAEA" VerticalAlignment="Stretch" >
+                    <TextBlock Grid.Row="1" x:Name="pathname" Margin="10 5 0 0" Text="{Binding FullName}" FontSize="15"   Foreground="#9B9A9F">
+                    </TextBlock>
+                </RelativePanel>
+
+                <RelativePanel Grid.Row="2">
+                    <ListView x:Name="disklistview"  SelectionChanged="disklistview_SelectionChanged" ShowsScrollingPlaceholders="False"  RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True" ItemContainerStyle="{StaticResource ResourceKey=ItemContainerStyle}">
+                        <ItemsControl.Template >
+                            <ControlTemplate>
+                                <ScrollViewer >
+                                    <StackPanel  >
+                                        <ItemsPresenter></ItemsPresenter>
+                                    </StackPanel>
+                                </ScrollViewer>
+                            </ControlTemplate>
+                        </ItemsControl.Template>
+                        <ListView.ItemTemplate >
+                            <DataTemplate >
+                                <local:DiskListitem  x:Name="disklistitem" VerticalAlignment="Stretch" Height="70" HorizontalAlignment="Stretch" ></local:DiskListitem>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </RelativePanel>
+                <Border Visibility="Collapsed"  Background="Transparent"  Grid.Row="2" x:Name="border">
+                    <Grid Height="100" Background="#556D74" Margin="20 0 20 0"  x:Name="grid" VerticalAlignment="Center">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="3*"></ColumnDefinition>
+
+                        </Grid.ColumnDefinitions>
+                        <Image Grid.Column="0" Margin="5" Source="{Binding Img}"></Image>
+                        <RelativePanel Grid.Column="1" Margin="0 10 0 0" Height="90" VerticalAlignment="Top">
+                            <RelativePanel x:Name="fileinfo" RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True">
+                                <TextBlock Margin="10 0 0 0" x:Name="filename" FontSize="20" Text="{Binding Name}"  TextAlignment="Left"></TextBlock>
+                                <TextBlock Text="{Binding Size}" Margin="0 0 10 0" TextAlignment="Right" FontSize="20" RelativePanel.RightOf="filename" RelativePanel.AlignRightWithPanel="True" ></TextBlock>
+                            </RelativePanel>
+
+                            <ProgressBar x:Name="fileprogressbar" Margin="10 10 10 10" Height="20" Foreground="#00D622" Maximum="{Binding Size}" Value="{Binding Count}" Background="#D3D3D3" RelativePanel.Below="fileinfo"  RelativePanel.AlignRightWithPanel="True" RelativePanel.AlignLeftWithPanel="True" ></ProgressBar>
+                            <RelativePanel RelativePanel.Below="fileprogressbar" RelativePanel.AlignLeftWithPanel="True" RelativePanel.AlignRightWithPanel="True">
+                                <TextBlock x:Name="downloadspeed" Margin="10 0 0 0" Text="{Binding Count}"></TextBlock>
+                                <!--<TextBlock x:Name="downloadtime" TextAlignment="Right" Margin="0 0 10 0" RelativePanel.RightOf="downloadspeed" RelativePanel.AlignRightWithPanel="True"  Text="00:06"></TextBlock>-->
+                            </RelativePanel>
+                        </RelativePanel>
+
+                    </Grid>
+                </Border>
+               
+                <!--<RelativePanel Grid.Row="2"  Opacity="0.7" HorizontalAlignment="Right" Margin="0 0 100 0"  VerticalAlignment="Center">
+                    <Button  Width="100"  x:Name="download" Content="下载"  FontSize="40" ></Button>
+                    <Button  Width="100" Content="取消" FontSize="40" RelativePanel.Below="download"></Button>
+                </RelativePanel>-->
+            </Grid>
+        </RelativePanel>
+    </Grid>
+</Page>

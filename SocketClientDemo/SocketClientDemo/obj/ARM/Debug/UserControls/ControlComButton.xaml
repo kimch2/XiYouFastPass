@@ -1,0 +1,24 @@
+﻿<UserControl
+    x:Class="SocketClientDemo.UserControls.ControlComButton"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SocketClientDemo.UserControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <Grid>
+        <RelativePanel  VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button x:ConnectionId='1' x:Name="btn"  Width="130" Height="130" Style="{StaticResource EllipseButtonStyle}">
+                <!--<Image Source="{Binding Source}"></Image>-->
+                <Button.Background>
+                    <ImageBrush ImageSource="{Binding Source}"></ImageBrush>
+                </Button.Background>
+            </Button>
+            <TextBlock RelativePanel.Below="btn" Margin="0 0 0 0" FontWeight="Bold" Text="{Binding Name}" RelativePanel.AlignRightWith="btn" RelativePanel.AlignLeftWith="btn" HorizontalAlignment="Center"  Foreground="White" ></TextBlock>
+        </RelativePanel>
+    </Grid>
+</UserControl>
+
